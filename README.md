@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @McSquidy
-- 👀 I’m interested in game creation
-- 🌱 I’m currently learning how to use batch script for CMD games
-- 💞️ I’m looking to collaborate on batch script CMD games
-- 📫 How to reach me: idfk
+                              /\
+                             /##\
+                            /####\
+                           /######\
+                          /########\
+                         /#######[][][][][][][][][][][][][][][][][][][]
+                        /########[][][][][][][][][][][][][][][][][][][]
+                       /#########[][][][][][][][][][][][][][][][][][][]
+                      /################\
+                     /##################\
+                    /####################\
+                   /#########[][][][][][][][][][][][][][][][][][][][][]
+                  /##########[][][][][][][][][][][][][][][][][][][][][]
+                 /###########[][][][][][][][][][][][][][][][][][][][][]
+                /############################\
+               /##############################\
+              /################################\
+             /##################################\
+            /##########[][][][][][][][][][][][][][][][][][][][][][][][]
+           /###########[][][][][][][][][][][][][][][][][][][][][][][][]
+          /############[][][][][][][][][][][][][][][][][][][][][][][][]
+         /##########################################\
+        /############################################\
+       /##############################################\
+      /################################################\
+     /##################################################\
 
-<!---
-McSquidy/McSquidy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+Hi, welcome to my Github profile.
+Currently it's fairly barebones (this line will be changed to something once I get it all spruced up), but I'll work to make it looks nicer.
+Recently I've been making some basic JS/HTML projects, though i've made a few games using Batchscript.
+You can reach me at squidanimates76@gmail.com
+Thanks for visiting, be sure to stop by again some time!
+
+Sincerely,
+          Squid           
